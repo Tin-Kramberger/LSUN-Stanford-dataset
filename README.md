@@ -30,7 +30,7 @@ pip install Pillow
 pip install mysql-connector-python
 ```
 
-###How to use the dataset
+### How to use the dataset
 
 1. Download LSUN car dataset from link: http://dl.yf.io/lsun/objects/car.zip and use provided script to export the images to desired folder.
 2. Download Stanford car dataset from links: http://imagenet.stanford.edu/internal/car196/cars_train.tgz and http://imagenet.stanford.edu/internal/car196/cars_test.tgz
