@@ -40,7 +40,7 @@ pip install mysql-connector-python
 ###How to use the dataset
 
 1. Download LSUN car dataset from link: http://dl.yf.io/lsun/objects/car.zip and use provided script to export the images to desired folder.
-2. Download Stanford car dataset from links: http://imagenet.stanford.edu/internal/car196/cars_train.tgz and http://imagenet.stanford.edu/internal/car196/cars_test.tgz
+2. Download Stanford car dataset from links: http://ai.stanford.edu/~jkrause/car196/cars_train.tgz and http://ai.stanford.edu/~jkrause/car196/cars_test.tgz
 3. Export the Stanford car dataset images to the same folder chosen in step 1 in 'cars_train' and 'cars_test' sub folders.
 4. Download our MySQL database from link: https://drive.google.com/drive/folders/10L49FrRzlBKyacKNZl4nPdil5JBWBlFh
 5. Extract the SQL script from zip file and import the database using script for example:
